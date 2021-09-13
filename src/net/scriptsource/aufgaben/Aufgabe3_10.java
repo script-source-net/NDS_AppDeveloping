@@ -16,12 +16,12 @@ public class Aufgabe3_10 {
         name=sc.next();
         System.out.println("Wie ist ihr Vorname?");
         prename=sc.next();
-
         System.out.println("Wann sind Sie geboren? [dd.mm.yyyy]");
         date = sc.next();
         try{        //Calculating the days of birthday until today
             birthDay =sDate.parse(date);
-            tDiff = ((dateNow.getTime()-birthDay.getTime())/(1000*60*60*24));
+            tDiff = ((dateNow.getTime()-birthDay.getTime())/(1000*3600*24));
+            tAge=tDiff/365;
         } catch (ParseException excep){
             excep.printStackTrace();
         }
