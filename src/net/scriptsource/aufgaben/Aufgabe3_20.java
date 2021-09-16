@@ -16,6 +16,7 @@ public class Aufgabe3_20 {
 
         //Abfüllen eine Mehrdimensionalen Arrays mit Zahlen
         for(int i=1;i<9;i++){
+<<<<<<< Updated upstream
             indexColumn = 0;                        //Zurücksetzen des Kollonenindexes für das Arrays
             for (int j=startInner;j<endInner;j++){  //Abfüllen der Kollone des Multidimensionalen Arrays
                 //System.out.print(j + " ");
@@ -40,6 +41,11 @@ public class Aufgabe3_20 {
             output="";
             for(int data: innerArray){
                 output+=data + " ";
+=======
+            for (int j =1; j<9;j++){
+                System.out.print(j + " ");
+
+>>>>>>> Stashed changes
             }
             System.out.println(output);
         }
