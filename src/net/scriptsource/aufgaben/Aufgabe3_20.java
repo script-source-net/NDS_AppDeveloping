@@ -35,6 +35,14 @@ public class Aufgabe3_20 {
             }
             System.out.println(output);
         }
+        System.out.println("************************");
+        for (int[] innerArray:rows){
+            output="";
+            for(int data: innerArray){
+                output+=data + " ";
+            }
+            System.out.println(output);
+        }
     }
 
 }
