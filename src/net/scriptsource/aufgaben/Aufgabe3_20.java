@@ -10,7 +10,7 @@ Beispiel:
  */
 public class Aufgabe3_20 {
     public static void main(String[] args) {
-        int startInner=1, endInner=9, indexRow = 0, indexColumn=0;
+        int startInner=1, endInner=9, indexRow = 0, indexColumn;
         String output;
         int[][] rows = new int[8][8];
 
