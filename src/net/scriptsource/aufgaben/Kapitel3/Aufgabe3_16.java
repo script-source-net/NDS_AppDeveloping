@@ -1,4 +1,4 @@
-package net.scriptsource.aufgaben;
+package net.scriptsource.aufgaben.Kapitel3;
 
 public class Aufgabe3_16 {
     public static void main(String[] args) {

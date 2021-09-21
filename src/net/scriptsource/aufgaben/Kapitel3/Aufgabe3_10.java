@@ -1,4 +1,4 @@
-package net.scriptsource.aufgaben;
+package net.scriptsource.aufgaben.Kapitel3;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package net.scriptsource.aufgaben;
+package net.scriptsource.aufgaben.Kapitel3;
 import net.scriptsource.Prog1Tools.IOTools;
 
 public class Aufgabe3_23 {

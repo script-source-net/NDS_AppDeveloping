@@ -1,4 +1,4 @@
-package net.scriptsource.aufgaben;
+package net.scriptsource.aufgaben.Kapitel3;
 /*
 Abfüllen eines mehrdimensionalen Arrays welches auf mehrere Reihen und Kollonen
 sich pro Reihe um 1 erhöhende Kollonenzahlen beinhaltet
