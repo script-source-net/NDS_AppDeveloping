@@ -19,9 +19,11 @@
 
 package net.scriptsource.Prog1Tools;  // (Version 2018 ff)
 
-import java.io.*;
-import java.util.*;
-import java.math.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.math.BigDecimal;
+import java.util.StringTokenizer;
 
 /** Diese Klasse stellt einige einfache Methoden zum Einlesen von der Tastatur
  zur Verf&uuml;gung. Es werden diverse Werte von der Tastatur eingelesen, die

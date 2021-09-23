@@ -1,7 +1,5 @@
 package net.scriptsource.aufgaben.kapitel4;
 
-import net.scriptsource.lektion3.TerminKalenderMain;
-
 import java.util.Scanner;
 
 public class Aufgabe4_3 {
