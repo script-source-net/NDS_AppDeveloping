@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Testings {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        /*Scanner sc = new Scanner(System.in);
         System.out.println("Wie viele Zahlen?");
         int n=sc.nextInt();
 
@@ -26,5 +26,10 @@ public class Testings {
                     werte2[i]);
         }
 
+         */
+        int number = 270098%10;
+        System.out.println(number);
+        int matrNr = 88/10;
+        System.out.println(matrNr);
     }
 }
