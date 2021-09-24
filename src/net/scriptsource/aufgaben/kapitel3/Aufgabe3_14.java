@@ -1,4 +1,4 @@
-package net.scriptsource.aufgaben;
+package net.scriptsource.aufgaben.kapitel3;
 
 import java.util.Scanner;
 
