@@ -1,11 +1,17 @@
 package net.scriptsource.stringservice;
 
+import net.scriptsource.stringservice.gui.Gui;
+import net.scriptsource.stringservice.gui.StartForm;
 import net.scriptsource.stringservice.sqlQueries.SQL_Queries;
-
 import java.sql.*;
+
 
 public class Launcher {
     public static void main(String[] args) {
+        StartForm startForm = new StartForm();
+
+
+        /*
         SQL_Queries sq = new SQL_Queries();
         String url = "jdbc:mysql://webdev.script-source.net:3306/script-source.net";
         String user = "javasql";
@@ -32,5 +38,7 @@ public class Launcher {
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
+
+         */
     }
 }
